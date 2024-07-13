@@ -31,6 +31,6 @@ INSTRUCTIONS
 
      b. Create a desktop shortcut of "Roblox.Launcher.exe" and change shortcut icon to "RobloxIcon.exe"
 
-  9. Repeat Step 8 on super user client pc then save.
+  9. Repeat Step 5, 8a and 8b on super user client pc then save.
 
   10. To update, just open Roblox Launcher shortcut on your diskless server.
