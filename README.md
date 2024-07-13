@@ -19,7 +19,7 @@ INSTRUCTIONS
     
          mklink /d "C:\\Program Files (x86)\Roblox" "GAMEDISK\Roblox\Program Files (x86)\Roblox"
          
-         mklink /d "C:\\Users\USERNAME\AppData\Local\Roblox" "GAMEDISK\Roblox\AppData\Local"
+         mklink /d "C:\\Users\USERNAME\AppData\Local\Roblox" "GAMEDISK\Roblox\AppData\Local\Roblox"
 
   6. In "GAMEDISK\Roblox\Program Files (x86)\Roblox", search for "RobloxPlayerBeta.exe" and copy the file to "GAMEDISK\Roblox"
 
