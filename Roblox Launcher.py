@@ -1,4 +1,4 @@
-#compile with pyinstaller "Roblox Launcher.exe" --onefile --noconsole
+#compile with pyinstaller "Roblox Launcher.py" --onefile --noconsole
 
 import os
 import shutil
