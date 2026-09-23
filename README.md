@@ -9,19 +9,19 @@ INSTRUCTIONS
 
   1. On your diskless server, install Roblox.
 
-  2. Create a "Roblox" folder on your gamedisk and make "AppData\Local" and "Program Files (x86)" folders inside it.
+  2. Create a "Roblox" folder on your gamedisk and make "AppData\Local" and "Program Files" folders inside it.
 
   3. Move "C:\\Users\USERNAME\AppData\Local\Roblox" to "GAMEDISK\Roblox\AppData\Local" folder you created on step 2.
 
-  4. Move "C:\\Program Files (x86)\Roblox" to "GAMEDISK\Roblox\Program Files (x86)" folder you created on step 2.
+  4. Move "C:\\Program Files\Roblox" to "GAMEDISK\Roblox\Program Files" folder you created on step 2.
 
   5. Make a symbolic link for Roblox Folders. Open cmd as administrator. Type in
     
-         mklink /d "C:\\Program Files (x86)\Roblox" "GAMEDISK\Roblox\Program Files (x86)\Roblox"
+         mklink /d "C:\\Program Files\Roblox" "GAMEDISK\Roblox\Program Files\Roblox"
          
          mklink /d "C:\\Users\USERNAME\AppData\Local\Roblox" "GAMEDISK\Roblox\AppData\Local\Roblox"
 
-  6. In "GAMEDISK\Roblox\Program Files (x86)\Roblox", search for "RobloxPlayerBeta.exe" and copy the file to "GAMEDISK\Roblox"
+  6. In "GAMEDISK\Roblox\Program Files\Roblox", search for "RobloxPlayerBeta.exe" and copy the file to "GAMEDISK\Roblox"
 
   7. Rename "GAMEDISK\Roblox\RobloxPlayerBeta.exe" to "RobloxIcon.exe"
 
